@@ -1,0 +1,14 @@
+Metric,Value
+Dataset Images,119
+Number of Classes,3
+Training Image Size,128 x 448
+Feature Extractor,MobileNetV2 (ImageNet)
+Feature Dimensions,1280
+Classifier,Linear SVM
+Selected C,0.01
+Mean CV Accuracy,0.9232
+Mean CV Macro F1,0.9205
+OOF Accuracy,0.9244
+OOF Macro F1,0.9238
+Correct OOF Predictions,110
+Incorrect OOF Predictions,9
